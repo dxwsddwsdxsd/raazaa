@@ -22,7 +22,6 @@ Parallels Desktop download
 
 Parallels Desktop price
 
-
 ## What does Parallels Desktop do?
 
 Parallels Desktop is an application for Mac that allows you run Windows, Linux or even OS X operating systems and applications created for them on your Mac. This is made possible thanks to a specific software technology called desktop virtualization.
